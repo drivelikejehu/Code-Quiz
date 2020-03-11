@@ -2,7 +2,7 @@ var questions = [
   {
     question: "Commonly used data tyoes DO NOT include:",
     choices: ["strings", "booleans", "alerts", "numbers"],
-    answer: "lerts"
+    answer: "alerts"
   },
   {
     question: "The condition in an if/else statement is enclosed within:",
@@ -31,4 +31,4 @@ var questions = [
     choices: ["Javascript", "terminal/bash", "for loops", "console.log"],
     answer: "console.log"
   }
-];
+]; 
